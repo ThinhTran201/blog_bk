@@ -1,0 +1,29 @@
+{
+  "name": "blog_bk",
+  "version": "1.0.0",
+  "description": "hoc nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinhTran201/blog_bk.git"
+  },
+  "keywords": [
+    "blog_bk"
+  ],
+  "author": "thinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinhTran201/blog_bk/issues"
+  },
+  "homepage": "https://github.com/ThinhTran201/blog_bk#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
